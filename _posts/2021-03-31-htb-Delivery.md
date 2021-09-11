@@ -1,16 +1,16 @@
 ---
 layout: single
-title: Smasher - Hack The Box
-date: 2018-11-24
-classes: wide
+title: Delivery - Hack The Box
+date: 2021-03-31
+Tipo de Sistema: Linux
 header:
   teaser: /assets/images/htb-writeup-smasher/smasher.png
 categories:
   - hackthebox
-  - infosec
+  
 tags:
   - hackthebox
-  - binary exploit  
+    
 ---
 
 ## Linux / 10.10.10.89
