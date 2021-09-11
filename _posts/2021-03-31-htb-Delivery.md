@@ -4,7 +4,7 @@ title: Delivery - Hack The Box
 date: 2021-03-31
 Tipo de Sistema: Linux
 header:
-  teaser: /assets/images/htb-writeup-smasher/smasher.png
+  teaser: /assets/images/htb-writeup-delivery/2.png
 categories:
   - hackthebox
   
